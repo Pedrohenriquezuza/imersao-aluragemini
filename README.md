@@ -1,4 +1,4 @@
-# Busca de Atletas Brasileiros
+# Busca de Atletas Brasileiros - Imersão Dev Da Alura Com Google Gemini
 
 ## Descrição
 Este projeto web permite pesquisar por atletas brasileiros. Ao digitar o nome de um atleta ou uma palavra-chave relacionada, a aplicação retorna informações como nome, descrição e um link para mais detalhes.
